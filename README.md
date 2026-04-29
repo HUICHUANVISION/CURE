@@ -62,18 +62,7 @@ python run_deep_baselines.py --models DANN,ADDA,DeepCORAL --dataset AEEEM
 - **HDP Baselines**: CPDP-IFS, CLSUP, FMT, MSMDA
 - **Deep DA Baselines**: DANN, ADDA, Deep CORAL
 - **Traditional Transfer Learning**: TCA, JDA, BDA, CCA+, CORAL
-
-## Citation
-
-```bibtex
-@article{cure2026,
-  title={CURE: Conditional Unaligned Representation Enhancement for Heterogeneous Software Defect Prediction},
-  author={Ding, Yongchang and ...},
-  journal={IEEE Transactions on Software Engineering},
-  year={2026}
-}
 ```
-
 ## License
 
 MIT License
