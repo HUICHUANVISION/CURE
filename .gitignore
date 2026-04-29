@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Results and outputs
+results_*/
+runs/
+*.log
+*.aux
+*.bbl
+*.blg
+*.out
+
+# Experiment outputs
+*_results.csv
+*_results.xlsx
+deep_baseline_results.*
+stats_tests.csv
+results_summary.csv
+rq2_all_datasets_delta.csv
+
+# Figures
+*.png
+*.pdf
+
+# Environment
+.env
+.venv
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
